@@ -43,10 +43,22 @@ function findTheCheese (cheese) {
   if (cheese[i]=="cheddar"
   ||cheese[i]=="gouda"
   ||cheese[i]=="camembert"
+  ||cheese[i]=="swiss"
   ){
     return cheese[i]
   }
 }
 return "no cheese!"
 }
+
+
+function wordsWithB (words){
+  var newArray=[]
+    for (var i=0, i<=words.length, i++)
+    if (var=b)
+    newArray.push(words[i]())
+  
+
+}
+return newArray
 
